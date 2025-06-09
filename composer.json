@@ -1,10 +1,10 @@
 {
-    "name": "matt/it490",
+    "name": "a-moli/it490",
     "type": "Something-Fun",
     "authors": [
         {
-            "name": "MattToegel",
-            "email": "matthew.toegel@njit.edu"
+            "name": "AndreaMolinet",
+            "email": "am247@njit.edu"
         }
     ],
     "require": {
